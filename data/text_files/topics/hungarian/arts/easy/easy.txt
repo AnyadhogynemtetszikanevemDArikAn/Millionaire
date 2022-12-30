@@ -15,3 +15,4 @@ Milyen márkájú leveskonzerv látható a híres Andy Warhol festményen?;Campb
 Melyik a világ leglátogatottabb múzeuma?;Louvre;Ermitázs;Vatikáni Múzeum;British Museum
 Melyik országban találhatók az agyagharcosok?;Kína;Oroszország;India;Észak-Korea
 Melyik országból származik Gustav Klimt?;Ausztria;Csehország;Németország;Franciaország
+nini
