@@ -1,4 +1,4 @@
-Azt a kohászati eljárást, amelynek során a fémet olvasztott állapotban nyerik, hogyan nevezzük?;olvasztás;pörkölés;kalcinálás;hab lebegtetés
+Azt a kohászati eljárást, amelynek során a fémet olvasztott állapotba kerül, hogyan nevezzük?;olvasztás;pörkölés;kalcinálás;hablebegtetés
 Az a törvény, amely kimondja, hogy a folyadékban oldott gáz mennyisége arányos a parciális nyomásával?;Henry-törvény;Dalton-törvény;Gay Lussac-törvény;Raoult-törvény
 Melyik kémiai elem folyékony szobahőmérsékleten?;Bróm;Thulium;Tungsten;Hélium
 Brønsted szerint a protonok befogadására képes anyag?;Bázis;Sav;Fém;Só
