@@ -13,3 +13,6 @@ Melyik művészeti mozgalom virágzott a svájci Zürichben a 20. század elejé
 Kinek az uralkodása alatt kezdődött a Karoling művészet?;Nagy Károly;Kis Pipin;Desiderius;I. Klodvig
 Nevezze meg az alapítók szülővárosának kezdőbetűiből létrehozott művészeti csoportot;COBRA;De Stijl;Section d''Or;Puteaux csoport
 Milyen típusú festmény ábrázolja valósághűen a mindennapi élet jeleneteit?;Zsánerkép festészet;Kéregfestészet;Metafizikai festészet;Deccani-festészet
+A "Művészet a művészetért" mottó melyik művészeti irányzathoz tartozik?;Esztétizmus;Costumbrismo;Manierizmus;Expresszionizmus
+Milyen típusú művészet az art deco?;Építészet;Szobrászat;Festészet;A fentiek egyike sem
+Melyik országból származik Gustav Klimt?;Ausztria;Csehország;Németország;Franciaország

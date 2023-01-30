@@ -7,10 +7,10 @@ A "Sherlock Holmes"-nak ki az alkotója?;Arthur Conan Doyle;Ian Fleming;Dr.Watso
 Minden szó tartalmaz legalább egy …?;Szótag;Zárójel;Tárgy;Felirat
 Ki írta a "80 nap alatt a föld körül" című művét 1873-ban?;Jules Verne;Edgar Allan Poe;Herman Melville;Harriet Beecher Stove
 A Gulliver Utazásaiban mi a neve a repülő szigetnek?;Laputa;Sirungi;Fapesu;Janaun
-Ki írta a dzsungel könyvét?;Rudyard Kipling;Dr. Seuss;Shel Silverstein;Wilson Rawls
-A "New King James Version" (King James Biblia) - (NKJV) melyik könyv egy változata?;Biblia;Odüsszeia;Hamlet;Dekameron
-Ki a "Les Miserable" (Nyomorultak) regény szerzője?;Victor Hugo;ALium tofler;G.Wynne;Fedric
-Milyen szörnyű esemény történt Görögországban, amikor Hádész elrabolta Perszephoné-t?;éhínség;a trójai háború;nem születik baba;járványkitörés
+A "New King James Version" - (NKJV) melyik könyv egy változata?;Biblia;Odüsszeia;Hamlet;Dekameron
 Ezek közül a hatalmas harcosok közül melyiket mártották a Styx folyóba csecsemőként, amitől szinte sebezhetetlen?;Achilles;Jason;Hercules;Odüsszeusz
 Zeusz apja, Kronosz az alábbiak közül melyiket tette gyermekeivel?;Élve ette meg őket;Harcra idomította őket;Farkastejjel választotta el őket;Elhagyta őket egy lakatlan szigeten
 Milyen szokatlan módon született Athéné?;Zeusz fejéből pattant ki;Óriás kagylóból emelkedett ki;Farkasból átalakult;Márványból faragták ki
+Hol született Arany János?;Nagyszalonta;Nagyszeben;Kiskőrös;Sárospatak
+Kinek az első felesége volt Laborfalvi Róza?;Jókai Mór;Arany János;Ady Endre;Babits Mihály
+Ki a négy evangélista?;Máté, Márk, Lukács és János;János, Fülöp, András és Jakab;Júdás, Tamás, Simon és Péter;Bertalan, Máté, Júdás és Jakab

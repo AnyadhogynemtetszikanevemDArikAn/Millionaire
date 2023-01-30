@@ -13,3 +13,7 @@ What is the most popular potato chip flavor?;Plain;Barbecue;Sour cream and onion
 How many eggs contain a "bonus" yolk?;One in 1,000 eggs;One in 500 eggs;One in 2,000 eggs;One in 3,000 eggs
 What dried fruit is best for runners looking for an energy boost?;Raisins;Dates;Apricots;All of the above
 How many grams of fiber are in a large apple?;5 grams;4 grams;6 grams;7 grams
+Which of the following is not a type of pasta?;Escargot;Spaghetti;Fettuccine;Ziti
+Which country is NOT one of the supposed origins of lasagna?;Greece;Italy;England;Spain
+How old is bubble tea?;40 years old;200 years old;100 years old;80 years old
+Is a tomato a fruit or a vegetable?;Fruit;Vegetable;Both;Neither

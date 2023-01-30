@@ -9,8 +9,7 @@ Who wrote "Around the World in 80 Days" in 1873?;Jules Verne;Edgar Allan Poe;Her
 In Gullivers Travels, what is the name of the flying island?;Laputa;Sirungi;Fapesu;Janaun
 Who wrote the Jungle Book?;Rudyard Kipling;Dr. Seuss;Shel Silverstein;Wilson Rawls
 The "New King James Version" (NKJV) is a version of what book?;Bible;Odyssey;Hamlet;Decameron
-Who is the author of the novel 'Les Miserable'?;Victor Hugo;ALium tofler;G.Wynne;Fedric
-What horrible event befell Greece when Hades abducted Persephone?;famine;the Trojan War;no babies born;outbreak of plague
 Which of these mighty warriors was dipped in the River Styx as a baby, making him nearly invulnerable?;Achilles;Jason;Hercules;Odysseus
 Zeus’s father, Cronus, did which of the following to his children?;Ate them alive;Trained them for combat;Weaned them on wolf's milk;Abandoned them on a desert island
 In what unusual way was Athena born?;She sprang out of Zeus's head;She emerged from a giant clam;Transformed from a wolf;She was carved from marble
+Who are the Four Evangelists?;Matthew, Mark, Luke, and John;John, Philip,Andrew,James;Judas,Thomas,Simon,Peter;Bartholomew,Matthew,Jude,James

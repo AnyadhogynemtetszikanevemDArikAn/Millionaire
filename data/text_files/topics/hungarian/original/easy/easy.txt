@@ -3,33 +3,19 @@ Milyen pitypangnak hívják a gyermekláncfüvet?;Pongyola;Pipogya;Patyolat;Papu
 Egészítse ki a híres novella címét! "Mario és a ..";Varázsló;Varázshegy;Kiválasztott;Buddenbrook-ház
 Mit neveztek régen indóháznak?;Vasútállomást;Telefonközpontot;Kékfestőműhelyt;Az automobil motorját
 Ki rendezte a Titanic című 1997-ben készült filmet?;James Cameron;Ron Howard;Steven Spielberg;Richard Donner
-Hol olvashatjuk a V.S.O.P feliratot?;Konyakosüvegen;Közlekedési táblán;Szemész olvasólistáján;Korhatáros filmek előtt
 Mi a gépjárművek tengelykapcsolójának ismert neve?;Kuplung;Gyertya;Porlasztó;Akkumulátor
-Melyik művészeti ág képviselőjeként vált híressé Gács Rezső?;Bűvész;Festő;Színész;Karmester
-Melyik város nevezetes a z ókor legnagyobb ismert könyvtárát?;Alexandria;Knosszosz;Büblosz;Milétosz
-Melyik állat nevét vieseli a rendőrség autótolvajokra specializálódott különleges csoportja?;Gepárd;Leopárd;Puma;Tigris
+Melyik város nevezetes az ókor legnagyobb ismert könyvtárát?;Alexandria;Knosszosz;Büblosz;Milétosz
 Milyen a "szomszéd nője" Jack Lemmon és Walter Matthau filmjének címe szerint?;Mindig zöldebb;Mindig szőkébb;Mindig teltebb;Mélyebb dekoltázsú
-Milyen királyságnak nevezik a rövid idejig tartó hatalmat?;Pünkösdi;Hűsvéti;Újévi;Karácsonyi
-Milyen gazdasági társulás nevét vette fek egy magyar rockegyüttes a 80-as években?;KFT;TSZ;GMK;ÁFÉSZ
-Mi a neve a Bánk bán intrikáló "lézengő ritterének"?;Biberach;Tiborc;Petúr;Solom
-Melyik város nevezetessége volt a "Checkpoint Charlie"?;Berlin;London;San Francisco;New York
-Hogy nevezik az önző, fösvény személyt?;Szükkeblű,Bővérű,Nagymellényű,Önfejű
+Milyen királyságnak nevezik a rövid idejig tartó hatalmat?;Pünkösdi;Húsvéti;Újévi;Karácsonyi
+Milyen gazdasági társulás nevét vette fel egy magyar rockegyüttes a 80-as években?;KFT;TSZ;GMK;ÁFÉSZ
+Hogy nevezik az önző, fösvény személyt?;Szükkeblű;Bővérű;Nagymellényű;Önfejű
 Mije van "tele" annak, akinek elege van valamiből?;Hócipője;Makkos cipője;Felemás cipője;Táncoló fekete lakkcipője
 Melyik alapanyag nem kell a görög salátához?;Sárgarépa;Uborka;Paradicsom;Juhsajt(feta)
-Ki volt az a XVI. századi francia orvos és asztrológus, aki ma reneszánszát éli?;Nostradamus;Fabricius;Vesalius;Paracelsus
-Melyik városhoz tartoznak a következő települések?;Zalaegerszeg;Szekszárd;Sátoraljaújhely;Szombathely
 Hogyan szokás nevezni a fehéres szálakkal tarkított sötét szőrű lovat?;Deres;Párás;Zúzmarás;Harmatos
 Mire nem vadászik a sas a híres mondás szerint?;Légyre;Elefántra;Sasfióka;Bolhára
-Melyik uralkodó rendelt a róla elnevezett lepkés, virágos herendi porcelánkészletből?;Viktória királynő;II. Miksa József;III. Napóleon;I. Miklós
-A Heti hetes melyik közreműködőjének nevét viseli kontinens?;Bajor Imre;Verebes István;Gálvölgyi János;Havas Henrik
 Melyik település neve egy József Attila-vers címe?;Balatonszárszó;Bécs;Makó;Öcsöd
 Melyik volt az a dinasztia, amelyik egy Henrikkel kezdődött és utolsó uralkodója I. Erzsébet volt?;Tudor;Morgó;Szende;Szundi
-Hányadik Henrikkel kezdődött a Tudor-dinasztia?;V.;VI.;VII.;VIII
-Ki volt a szegedi egyetem "fura ura"?;Horger Antal;Juhász Gyula;Havas Henrik;Szent-Györgyi Albert
 Milyen eredetű a Mercédesz női név?;Spanyol;Görög;Német;Francia
-Hogy írjuk helyesen az alábbi szót?;Tehergépkocsi-vezető;Tehergépkocsivezető;Teher-gépkocsivezető;Tehergép-kocsivezető
-Milyen ruhája csupa tarka virág a Csinibabának az azonos című slágerben?;Karton;Muszlin;Dzsörzé;Perlon
-Mi a címe Várkonyi Zoltán Mándy Iván műve alapján készült filmjének "Csutak és a ...";Szürke ló;Kék gebe;Pepita orángután;Zöld teve
 Milyen "szelet" egy krémmel töltött ostyaalapokból álló közkedvelt édesség neve?;Nápolyi;Velencei;Pármai;Római
 Mit néz meg az, aki egy darab premierjére vált jegyet?;A bemutató előadást;Az olvasópróbát;A főpróbát;Az utolsó előadást
 Melyik hegységünkben található Galyatető?;Mátra;Bükk;Börzsöny;Pilis

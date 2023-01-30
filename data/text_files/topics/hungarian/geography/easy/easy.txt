@@ -1,5 +1,4 @@
 Hol található a világ legmélyebb pontja?;Mariana-árok;Fülöp-szigeteki árok;Tonga-árok;Kermadec-árok
-Melyik a legmagasabb pontja a Mount Everest-nek?;8848 m;8840 m;8830 m;8838 m
 Melyik városban található az Eiffel torony?;Párizs;Sydney;Los Angeles;New York
 Hány kontinens található a Földön?;7;1;3;20
 Melyik államban található San Francisco és Hollywood?;Kalifornia;Utah;Hawaii;Montana
@@ -8,8 +7,9 @@ Melyik a világ legnagyobb országa?;Oroszország;Kanada;Kína;Észak-Amerika
 A Nagy-Viktória-sivatag hol található?;Ausztrália;Kanada;Nyugat-Afrika;Észak-Amerika
 Mi igaz Olaszországra?;Svájccal határos;Tengerparthoz nem tartozik;Fő nyelve a francia;Fővárosa Bécs
 Mi Dánia fővárosa?;Koppenhága;Amszterdam;Stockholm;Berlin
-Hol található a Szent Pál székesegyház?;London;Róma;Sydney;Madrid
 Melyik országban található a Fuji-hegy?;Japán;Kína;Peru;Észak-Korea
-Melyik országban található a Jóreménység foka?;Dél-Afrika;Ausztrália;Kanada;Usa
-Melyik országban található a Sierra Madre Oriental hegység?;Mexikó;Kína;Peru;Argentína
 Mi az emberi lények és kultúráik tanulmányozásának tudománya?;Antropológia;Antológia;Földrajz;Apiológia
+Melyik az USA legnagyobb kiterjedésű állama?;Alaszka;Kalifornia;Texas;Hawaii
+Mi Kenya fővárosa?;Nairobi;Tripoli;Bamako;Kankan
+Hol élnek a legtöbben?;Marokkó;Dél-Szudán;Libéria;Madagaszkár
+Melyik a legnagyobb ország a felsoroltak közül?;Etiópia;Kenya;Ghána;Egyiptom

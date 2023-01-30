@@ -34,3 +34,17 @@ Az alábbiak közül melyik tudományágban nem osztanak ki Nobel-díjat?;Matema
 Melyik Verdi-opera nem Schiller drámája alapján készült?;Falstaff;Don Carlos;Luisa Miller;Haramiák
 Milyen intézményt nyitott Teleki Blanka Pesten?;Leánynevelő intézetet;Kórházat;Közkönyvtárat;Óvodát
 Kik rabolták el a szabin nőket?;a római ifjak;Nagy Sándor katonái;Hunor és Magor;Zeusz és testvérei
+Mi a neve a Bánk bán intrikáló "lézengő ritterének"?;Biberach;Tiborc;Petúr;Solom
+Melyik város nevezetessége volt a "Checkpoint Charlie"?;Berlin;London;San Francisco;New York
+Melyik művészeti ág képviselőjeként vált híressé Gács Rezső?;Bűvész;Festő;Színész;Karmester
+Hányadik Henrikkel kezdődött a Tudor-dinasztia?;V.;VI.;VII.;VIII
+Hol olvashatjuk a V.S.O.P feliratot?;Konyakosüvegen;Közlekedési táblán;Szemész olvasólistáján;Korhatáros filmek előtt
+Melyik állat nevét vieseli a rendőrség autótolvajokra specializálódott különleges csoportja?;Gepárd;Leopárd;Puma;Tigris
+Ki volt az a XVI. századi francia orvos és asztrológus, aki ma reneszánszát éli?;Nostradamus;Fabricius;Vesalius;Paracelsus
+Melyik városhoz tartoznak a következő települések: Andráshida, Ebergény, Csácsbozsok?;Zalaegerszeg;Szekszárd;Sátoraljaújhely;Szombathely
+Melyik uralkodó rendelt a róla elnevezett lepkés, virágos herendi porcelánkészletből?;Viktória királynő;II. Miksa József;III. Napóleon;I. Miklós
+A Heti hetes melyik közreműködőjének nevét viseli kontinens?;Bajor Imre;Verebes István;Gálvölgyi János;Havas Henrik
+Ki volt a szegedi egyetem "fura ura"?;Horger Antal;Juhász Gyula;Havas Henrik;Szent-Györgyi Albert
+Hogy írjuk helyesen az alábbi szót?;Tehergépkocsi-vezető;Tehergépkocsivezető;Teher-gépkocsivezető;Tehergép-kocsivezető
+Milyen ruhája csupa tarka virág a Csinibabának az azonos című slágerben?;Karton;Muszlin;Dzsörzé;Perlon
+Mi a címe Várkonyi Zoltán Mándy Iván műve alapján készült filmjének "Csutak és a ...";Szürke ló;Kék gebe;Pepita orángután;Zöld teve

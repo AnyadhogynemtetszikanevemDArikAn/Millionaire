@@ -1,17 +1,17 @@
 Melyik híres festő volt szobrász, építész és mérnök is?;Leonardo Da Vinci;Hasan al-Ramma;Filippo Brunelleschi;Guido da Vigevano
 Hány ember látható Leonardo da Vinci Utolsó Vacsoráján?;13;3;10;7
 Ki festette a "Csillagos éjszakát"?;Vincent van Gogh;Georges Seurat;Pierre-Auguste Renoir;Paul Gauguin
-Mikor kezdődött a konstruktivizmus a művészetben?;1913;1886;1770;1600
-A "Művészet a művészetért" mottó melyik művészeti irányzathoz tartozik?;Esztétizmus;Costumbrismo;Manierizmus;Expresszionizmus
 Ki festette a Sixtus-kápolna mennyezetét?;Michelangelo;Botticelli;Leonardo da Vinci;Raffaello
 Sandro Botticelli „Vénusz születése” c. festményén min áll az istennő?;Óriás fésűkagylón;Óriás koponyán;Egy sziklán;Óriási bálnán
 Melyik városban található a British Museum?;London;Manchester;Oxford;Liverpool
 Melyik országból származik Claude Monet?;Franciaország;Németország;Svájc;Anglia
-Milyen típusú művészet az art deco?;Építészet;Szobrászat;Festészet;A fentiek egyike sem
-Melyik híres női fáraó mellszobrát faragta Thutmose?;Nefertiti;Hatsepszut;Kleopátra;Ashotep
 Melyik városban található Michelangelo Dávidja?;Firenze;Róma;Nápoly;Ravenna
-Melyik városban található a Manneken Pis?;Brüsszel, Belgium;Genf, Svájc;Toulouse, Franciaország;Milano, Olaszország
-Milyen márkájú leveskonzerv látható a híres Andy Warhol festményen?;Campbell's;Nestle;General Mills;Kraft Heinz
 Melyik a világ leglátogatottabb múzeuma?;Louvre;Ermitázs;Vatikáni Múzeum;British Museum
 Melyik országban találhatók az agyagharcosok?;Kína;Oroszország;India;Észak-Korea
-Melyik országból származik Gustav Klimt?;Ausztria;Csehország;Németország;Franciaország
+Gízai piramisok néven három piramist értünk. Melyik nem tartozik ezen piramisok közé?;Hafré;Kheopsz;Khephrén;Mükerinosz
+Az egyik legelterjedtebb elmélet szerint Szemiramisz függőkertje II. Nabú-kudurri-uszur kérésére épült. Mi volt a király célja ezzel az építménnyel?;Feleségét akarta megörvendeztetni a kerttel;Víztározóként funkcionált;Egyedi temetkezési helyet akart a dinasztiájának;Hatalmát akarta fitogtatni
+A pharoszi vagy alexandriai világítótorony tetején egy szobor állt. Vita van a történészek között arról, hogy melyik istenséget ábrázolta a szobor. Ki a két lehetséges görög isten?;Poszeidón és Zeusz;Héra és Gaia;Artemisz és Apollón;Hádész és Árész
+Mi a neve Auguste Rodin ülő alakot ábrázoló szobrának?;A gondolkodó;A töprengő;Az ülő fiú;A tanítvány
+A graffiti az olasz graffito szóból származik, mit jelent?;Kapar, karcol;Festéket szór;Vandalizmus;Átfest
+Melyik művészeti mozgalomhoz tartozott Salvador Dali?;Szürrealisták;Posztmodernisták;Impresszionisták;Romantikusok
+Melyik neves művésztől hangzott el az alábbi ikonikus mondat "a jövőben mindenki híres lehet 15 percre"?;Andy Warhol;Banksy;Jean-Michel Basquiat;Picasso

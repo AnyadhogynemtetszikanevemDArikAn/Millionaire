@@ -13,3 +13,6 @@ Who became the first President of Russia after the dissolution of the USSR?;Bori
 In what year did the United States enter World War I?;1917;1920;1914;1915
 Who cried "Eureka!" after making an important finding?;Archimedes;Socrates;Seneca;Aristotle
 What country sent the first human to outer space?;Soviet Union;USA;Mexico;China
+What happened right after the American Revolution (1775-1783) in the northern states?;Abolishment of slavery;Prohibition of alcohol;Women's suffrage;No fault divorce
+When did Columbus discover the Bahamas?;1492;1776;1329;1615
+The Forbidden City in Beijing was built during what dynasty?;Ming;Liao;Xin;Song

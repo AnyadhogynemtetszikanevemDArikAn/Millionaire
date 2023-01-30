@@ -14,3 +14,8 @@ For safety, the fuse wire used in the mains for household supply of electricity 
 Free surface of a liquid behaves like a sheet and tends to contract to the smallest possible area due to the?;force of cohesion;centrifugal force;force of friction;force of adhesion
 In what SI unit is the Planck constant expressed?;Joule seconds;Henry volt;Sievert watt;Candela per square meter
 Sound waves in air are?;longitudinal;transverse;electromagnetic;polarised
+What does the transformer in a power adapter modify?;Voltage;Waveform;Capacitance;Resistance
+What semiconductor element can switch or amplify electronic signals?;Transistor;Capacitor;Anode;Resistor
+Light from the Sun reaches us in nearly?;8 minutes;16 minutes;4 minutes;2 minutes
+On a rainy day, small oil films on water show brilliant colours. This is due to?;interference;diffraction;polarization;dispersion
+Stars appears to move from east to west because?;the earth rotates from east to west;the earth rotates from west to east;all stars move from east to west;the background of the stars moves from west to east

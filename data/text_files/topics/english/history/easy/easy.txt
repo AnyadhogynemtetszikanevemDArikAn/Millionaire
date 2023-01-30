@@ -1,15 +1,15 @@
 Who has invented the zeppelin?;Ferdinand von Zeppelin;Karl Maybach;Stefan Sommer;Henri Giffard
 What American holiday falls on July 4?;Independence Day;Thanksgiving Day;Christmas Day;New Year's Day
-Who is the current British monarch?;King Charles III;King Philippe;Queen Elizabeth II;King George
+Who is the British monarch in 2023?;King Charles III;King Philippe;Queen Elizabeth II;King George
 Which of these countries were NOT part of the Axis Powers during World War II?;China;Japan;Italy;Germany
 The first hand glider was designed by...?;Leonardo DaVinci;The Wright brothers;Francis Rogallo;Galileo
 First China War was fought between?;China and Britain;China and France;China and Egypt;China and Greek
 Who created with the "AK-47" the world's most produced weapon?;Mikhail Kalashnikov;Artem Mikoyan;Samuel Colt;John Browning
-When did Columbus discover the Bahamas?;1492;1776;1329;1615
 Which of these leaders was Macedonian?;Alexander the Great;Hadrian;Augustus;Justin I
 Who was the inventor of movable type printing in Europe?;Johannes Gutenberg;Friedrich Schiller;Leonardo da Vinci;Johann Wolfgang von Goethe
 The Terracotta Army depicts the army of an emperor of …?;China;Russia;Sudan;India
-What happened right after the American Revolution (1775-1783) in the northern states?;Abolishment of slavery;Prohibition of alcohol;Women's suffrage;No fault divorce
 Where was Solomon's Temple located?;Jerusalem;Haifa;Bethlehem;Tel Aviv
-The Forbidden City in Beijing was built during what dynasty?;Ming;Liao;Xin;Song
 Which of these countries was once part of the Soviet Union?;Belarus;France;United Kingdom;Italy
+Who said the famous phrase: “I came, I saw, I conquered.”;Julius Caesar;Alexander the Great;Dwight Eisenhower;King Solomon
+What method of execution became popular during the French Revolution?;Guillotine;Firing squad;Electric chair;Poisoning
+Dating back to the French Revolution, what is the national motto of France?;"Liberty, equality; fraternity";"One nation, one king";"God and my right";"Peace, love, hope"

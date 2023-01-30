@@ -14,3 +14,7 @@ Melyik amerikai államban található az MIT nevű magánkutató egyetem?;Massac
 Min halad át a Colorado folyó?;Sziklás-hegység;Himalája;Transzantarktisz-hegység;Andok
 Mi Indonézia fővárosa?;Jakarta;Bandung;Kuching;Szingapúr
 Mi Japán legnagyobb metropolisza?;Tokió;Oszaka;Kiotó;Jokohama
+Melyik a legmagasabb pontja a Mount Everest-nek?;8848 m;8840 m;8830 m;8838 m
+Hol található a Szent Pál székesegyház?;London;Róma;Sydney;Madrid
+Melyik országban található a Jóreménység foka?;Dél-Afrika;Ausztrália;Kanada;Usa
+Melyik országban található a Sierra Madre Oriental hegység?;Mexikó;Kína;Peru;Argentína

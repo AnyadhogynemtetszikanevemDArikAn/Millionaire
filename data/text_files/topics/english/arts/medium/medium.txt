@@ -13,3 +13,7 @@ Which art movement flourished in Zurich, Switzerland, during the early 20th cent
 During whose reign did the Carolingian art begin?;Charlemagne;Pepin the Short;Desiderius;Clovis I
 Name the art group formed from the initials of the founders'' home cities;COBRA;De Stijl;Section d''Or;Puteaux group
 What type of painting depicts scenes from everyday life in a realistic manner?;Genre painting;Bark painting;Metaphysical painting;Deccani painting
+Which country is Gustav Klimt from?;Austria;Czech Republic;Germany;France
+Which famous female pharaoh bust was sculpted by Thutmose?;Nefertiti;Hatshepsut;Cleopatra;Ashotep
+What type of art is art deco?;Architecture;Sculpture;Painting;None of the above
+The motto "Art for art''s sake" belongs to which art movement?;Aestheticism;Costumbrismo;Mannerism;Expressionism

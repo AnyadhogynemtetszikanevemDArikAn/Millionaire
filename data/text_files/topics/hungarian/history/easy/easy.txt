@@ -1,15 +1,16 @@
 Ki találta fel a Zeppelint?;Ferdinand von Zeppelin;Karl Maybach;Stefan Sommer;Henri Giffard
 Melyik amerikai ünnep esik július 4.-re?;Függetlenség Napja;Hálaadás;Karácsony;Újév
-Ki a jelenlegi Brit uralkodó?;III. Károly;Fülöp Király;II. Erzsébet Királyné;György Király
+Ki 2023-ban a Brit uralkodó?;III. Károly;Fülöp Király;II. Erzsébet Királyné;György Király
 Melyik országok NEM voltak részei a tengelyhatalmaknak a II. Világháborúban?;Kína;Japán;Olaszország;Németország
 Az első sárkányrepülőt az alábbi személy fedezte fel...?;Leonardo Da Vinci;A Wright fivérek;Francis Rogallo;Galileo
-Az első kínai háború melyik országok között zajlott?;Kína és Nagy-Britannia;Kína és Franciaország;Kína és Egyiptom;Kína és Görögország
 Ki alkotta meg az „AK-47”-tel a világ legtöbbet gyártott fegyverét?;Mihail Kalasnyikov;Artem Mikoyan;Samuel Colt;John Browning
-Mikor fedezte fel Kolumbusz a Bahamákat?;1492;1776;1329;1615
 Melyik vezető volt macedón?;Nagy Sándor;Hadrianus;Augusztus;I.Jusztinus
 Ki volt a mozgatható betűnyomtatás feltalálója Európában?;Johannes Gutenberg;Friedrich Schiller;Leonardo da Vinci;Johann Wolfgang von Goethe
 Az Agyag Hadsereg a melyik ország uralkodójának hadseregét jelképezi?;Kína;Oroszország;Szudán;India
-Mi történt közvetlenül az amerikai forradalom (1775-1783) után az északi államokban?;A rabszolgaság eltörlése;Az alkohol tilalma;Női választójog;Válóok nélküli válás
 Hol volt Salamon temploma?;Jeruzsálem;Haifa;Betlehem;Tel Aviv
-Melyik dinasztia idején épült a pekingi Tiltott Város?;Ming;Liao;Xin;Song
 Melyik ország volt valaha a Szovjetunió része?;Fehéroroszország;Franciaország;Egyesült Királyság;Olaszország
+Magyarország mikor csatlakozott az Európai Unióhoz?;2004;2006;2001;1996
+Mikor támadta meg Németország Lengyelországot a második világháborúban?;1939. szeptember 1;1945. április 12;1941. június 27;1945. febr. 19
+Mikor uralkodott Mátyás király?;1458-1490;1446-1485;1450-1504;1308-1342
+Mikor volt a Pákozdi csata?;1848. szeptember 29.;1849. október 23.;1526. március 17.;1711. április 29.
+Mikor volt a visegrádi királytalálkozó?;1335;1356;1437;1516

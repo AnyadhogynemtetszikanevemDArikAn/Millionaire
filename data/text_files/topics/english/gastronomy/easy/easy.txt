@@ -1,8 +1,4 @@
-Which of the following is not a type of pasta?;Escargot;Spaghetti;Fettuccine;Ziti
 A caffe macchiato has ________ origins.;Italian;Spanish;American;French
-Where did lasagna originate?;Greece;Italy;France;Spain
-How old is bubble tea?;40 years old;200 years old;100 years old;80 years old
-Is a tomato a fruit or a vegetable?;Fruit;Vegetable;Both;Neither
 What is the most popular pizza topping?;Pepperoni;Sausage;Mushroom;Extra cheese
 What is the most popular type of chocolate?;Milk;Dark;White;Semisweet
 What color pepper best supports eye health?;Orange;Yellow;Red;Green
@@ -13,3 +9,7 @@ The chef is the _____ of Gastronomy..;Master;Student;Writer;Caretaker
 What is the most popular beverage in the world?;Tea;Coffe;Beer;Wine
 What is the most popular fruit in the world?;Banana;Apple;Orange;Watermelon
 Barbecue is a gastronomic icon of U.S.A.?;True;False;It is a shared icon amongst USA and Mexico;It is a shared icon amongst USA and Canada
+What acids are found in grapes in their natural state?;Malic acid, citric acid, tartaric acid;Salicylic acid, oxalic acid, glycolic acid;Tannic acid, lactic acid, acetic acid;Butyric acid, sugar acid, sorbic acid
+Which is not a red wine grape?;Chardonnay;Pinot Noir;Carignan;Cabernet sauvignon
+Tiramisu is a representative dessert of which country?;Italy;Ireland;Scotland;Greece
+What is the representative dish in Spain?;Paella;Pozole;BBQ;Pizza

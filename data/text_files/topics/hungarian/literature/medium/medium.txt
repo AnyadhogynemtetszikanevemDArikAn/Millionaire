@@ -13,3 +13,6 @@ Ki mondta ezeket a szavakat: "Nem helyeslem, amit mondasz, de mindhalálig megv�
 Az közkedvelt "A keresztapa" című regénynek ki a szerzője?;Mario Puzo;Victor Hugo;John Milton;Harold Robbins
 David Copperfield minek/kinek a neve?;regény;híres színész;vers;író
 Mi maradt csak Pandora szelencéjében?;Remény;Betegség;Háború;Szegénység
+Ki írta a dzsungel könyvét?;Rudyard Kipling;Dr. Seuss;Shel Silverstein;Wilson Rawls
+Ki a "Les Miserable" (Nyomorultak) regény szerzője?;Victor Hugo;ALium tofler;G.Wynne;Fedric
+Milyen szörnyű esemény történt Görögországban, amikor Hádész elrabolta Perszephoné-t?;éhínség;a trójai háború;nem születik baba;járványkitörés

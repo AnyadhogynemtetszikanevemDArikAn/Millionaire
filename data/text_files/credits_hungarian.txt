@@ -1,7 +1,9 @@
         Ez a stáblista oldala a Helpless Gooses csapat Milliomos játékának.
 
-Ezt a játékot Sztankovszky Gellért fejlesztette tovább a Helpless Gooses csapat egyik heti projektfeladatából.
-Önszórakoztatás és python programozás gyakorlásának céljából indult újra ez a kvíz projekt.
+Ezt a játékot Sztankovszky Gellért fejlesztette tovább a
+Helpless Gooses csapat egyik heti projektfeladatából.
+Önszórakoztatás és python programozás gyakorlásának
+céljából indult újra ez a kvíz projekt.
 
 Ossza meg a játékot és a véleményét!
 

@@ -6,10 +6,12 @@ Mi a szén-dioxid szilárd formája?;Szárazjég;Gyanta;Vaj;Csokoládé
 Mit jelent a "Pb" vegyjel?;Ólom;Plutónium;Palladium;Lítium
 Mit nevezünk egy atom középpontjának?;Atommag;Pivot;Epicentrum;Fulcrum
 Mi az a szilárd anyag, amelynek molekulái rendezett, ismétlődő mintázatban helyezkednek el?;Kristály;Gránit;Bazalt;Konglomerátum
-Mi a második legkönnyebb kémiai elem?;Hélium;Szén;Gidrogén;Rádium
+Mi a második legkönnyebb kémiai elem?;Hélium;Szén;Hidrogén;Rádium
 Melyik molekula szerkezetében NINCS oxigén?;Ammónia;Víz;Etanol;Ózon
 Melyik a világegyetem legnagyobb mennyiségben előforduló eleme?;Hidrogén;Nitrogén;Nátrium;Oxigén
-Melyik a réz réz-szulfát oldatából történő kinyerésére használt fém?;Fe;Hg;Ag;Na
-A légkörben leggyakrabban előforduló ritka gáz?;Ar;Ne;He;Xe
-A polietilén monomerje?;Etilén;Vinil-klorid;Etil-alkohol;Egyik sem
 A víz tartós keménységének eltávolítására nem használható módszer?;Forralás;Nátronlúg hozzáadása;Desztilláció;Nátrium-karbonát hozzáadása
+Melyik az egyetlen, szobahőmérsékleten is folyékony halmazállapotú fém?;Higany;Cézium;Gallium;Alumínium
+Mi az ezüst vegyjele?;Ag;Au;Pt;As
+Az emberi testben hol található a legtöbb vas?;A vérben;A májban;A gyomorban;A vesében
+Melyik az a halmazállapot-változás, amelyben a szilárd anyag gáz halmazállapotúvá válik folyékony állapot nélkül?;Szublimáció;Diffúzió;Oxidáció;Galvanizáció
+Melyik az az egyetlen betű, amely nem szerepel a periódusos rendszerben?;J;U;X;Y

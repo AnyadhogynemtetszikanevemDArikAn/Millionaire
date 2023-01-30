@@ -14,3 +14,7 @@ In which US state is the private research university named MIT located?;Massachu
 The Colorado river flows through the …?;Rocky Mountains;Himalayas;Transantarctic mountains;Andes
 What is the capital of Indonesia?;Jakarta;Bandung;Kuching;Singapore
 What is the largest merropole in Japan?;Tokyo;Osaka;Kyoto;Yokohama
+Which is the correct highest point of the Mount Everest?;8848;8840;8830;8838
+Where can we find St. Paul's Cathedral?;London;Rome;Sydney;Madrid
+In which country is the Cape of Good Hope?;South africa;Australia;Candada;Usa
+The Sierra Madre Oriental is a mountain range in which country?;Mexico;China;Peru;Argentina

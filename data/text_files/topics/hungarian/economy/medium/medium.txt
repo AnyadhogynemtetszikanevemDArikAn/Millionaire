@@ -13,3 +13,4 @@ A pénzügyi buborékokat súlyosbítják a következők:;A fentiek mindegyike;C
 Adam Smith, a közgazdaságtan alapító atyja az ármechanizmust a következőkhöz hasonlította:;Láthatatlan kéz;Állatcsorda;Számítógép;Gép
 Az alternatív költség a legjobban a következőképpen definiálható:;Egy döntés költsége a következő legjobb alternatívában kifejezve;Hogyan szenved a gazdaság recesszióban;Egy döntés költsége pénzben kifejezve;Az áruk előállításához kapcsolódó pénzügyi költségek és szolgáltatások
 Melyik "vegyes" gazdaság?;Vannak növekedési és recessziós időszakok;Az erőforrásokat az ármechanizmuson és a kormányon keresztül allokálják;Minden erőforrást az ármechanizmuson keresztül allokálnak;A kormányok irányítják az összes erőforrás felhasználását
+Soha nem lesz több mint...;21 millió Bitcoin;13.000 Bitcoin;57 milliárd Bitcoin;Eh! Nincs is Bitcoin mennyiségi korlát.

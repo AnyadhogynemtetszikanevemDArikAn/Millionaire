@@ -3,18 +3,13 @@ Which of the following is NOT a primary color?;Green;Yellow;Red;Blue
 One should not connect a number of electrical appliances to the same power socket because?;this can damage the domestic wiring due to overloading;this can damage the appliances due to overloading;this can damage the electrical meter;the appliance will not get full voltage
 Solar eclipse will take place when?;the moon is between the sun and the earth;the sun is between the moon and the earth;the earth is between the moon and the sun;the moon does not lie on the line joining the sun and the earth
 For seeing objects at the surface of water from a submarine under water, the instrument used is?;periscope;kaleidoscope;spectroscope;telescope
-What semiconductor element can switch or amplify electronic signals?;Transistor;Capacitor;Anode;Resistor
-What does the transformer in a power adapter modify?;Voltage;Waveform;Capacitance;Resistance
 Which of these technologies is the newest?;Laser;Atomic Bomb;Television;Kodachrome
 For what does the "L" in LASER stand?;Light;Large;Long;Low
 What theory describes the start of our universe?;Big Bang;Supernova;Special relativity;Standard model
 It is easier to roll a stone up a sloping road than to lift it vertical upwards because?;work done in rolling a stone is less than in lifting it;work done in both is same but the rate of doing work is less in rolling;work done in lifting the stone is equal to rolling it;work done in rolling is more than in lifting
 Siphon will fail to work if?;the level of the liquid in the two vessels are at the same height;the densities of the liquid in the two vessels are equal;both its limbs are of unequal length;the temperature of the liquids in the two vessels are the same
 Light year is a unit of?;distance;time;light;intensity of light
-Light from the Sun reaches us in nearly?;8 minutes;16 minutes;4 minutes;2 minutes
-Stars appears to move from east to west because?;the earth rotates from east to west;the earth rotates from west to east;all stars move from east to west;the background of the stars moves from west to east
 Pa(Pascal) is the unit for?;pressure;thrust;frequency;conductivity
 Metals are good conductors of electricity because?;they contain free electrons;the atoms are lightly packed;they have high melting point;All of the above
 Let a thin capillary tube be replaced with another tube of insufficient length then, we find water?;will not rise;will overflow;depressed;change its meniscus
 Magnetism at the centre of a bar magnet is?;zero;maximum;minimum;minimum or maximum
-On a rainy day, small oil films on water show brilliant colours. This is due to?;interference;diffraction;polarization;dispersion

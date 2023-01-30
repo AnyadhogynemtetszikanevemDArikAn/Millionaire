@@ -1,8 +1,6 @@
-Melyik a valaha élt legnagyobb cápa?;Óriásfogú cápa;Nagy fehér cápa;Cetcápa;Tigriscápa
 Melyik a leggyorsabb szárazföldi állat?;Gepárd;Vándorantilop;Oroszlán;Quater Horse
 Melyik nem főemlős?;Delfin;Csimpánz;Gorillla;Orángután
 Melyik a legnagyobb külső szerve az emberi testnek?;Bőr;Szem;Fül;Orr
-Melyik NEM gyümölcs?;Rutabaga;Banán;Alma;Paprika
 A szem külső fehér részére a következőképpen hivatkoznak: ________.;Sclera;Macula;Vitreous;Retina
 A növények tápanyagaikat főként honnan szerzik?;A talajból;A fényből;A légkörből;A klorofillból
 A növények a szükséges víz nagy részét min keresztül szívják fel?;A gyökérszőrükön;Növekedési pontjukon;Embrionális zónájukon;Megnyúlási zónájukon

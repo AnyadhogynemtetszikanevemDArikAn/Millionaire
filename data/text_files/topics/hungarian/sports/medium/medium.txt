@@ -14,3 +14,10 @@ Melyik ír labdarúgót küldték haza a 2002-es labdarúgó-világbajnokság ke
 Melyik napon ünnepli a születésnapját az összes versenyló az északi féltekén?;január 1.; december 31.; május 16.; január 6.
 Melyik sportban használná az alábbi kifejezéseket: Chukka, nyaklövés(neckshot) és milliomoslövés(millionaire’s shot)?;Póló;Lövés;Íjászat;Lovaglás
 A Boat Race egy éves rendezvény. Mely két egyetem között zajlik?;Oxford & Cambridge;MIT & Chicago;Yale & Harvard;Boston & Chicago
+Hol golfoztak először a világon?;Skócia;USA;Németország;Franciaország
+Mi az Arsenal FC beceneve?;The Gunners;The Sky Blues;The Citizens;The Red Devils
+Mit jelent a golflyukon elért 1-gyel magasabb pontszám?;Bogey;Birdie;Ace;Eagle
+Mi a neve az egyetlen versenylónak, aki háromszor nyerte meg a Grand National-t?;Red Rum;Arkle;American Pharaoh;Winx
+Melyik 2 országban rendezték meg a 2019-es Krikett Világbajnokságot?;Anglia és Wales;Anglia és Németország;Anglia és Dánia;Anglia és Franciaország
+Melyik teniszversenyen szerezte meg Andy Murray első Grand Slam-bajnoki címét?;US Open;Australian Open;Roland Garros (French Open);Wimbledon
+Melyik futballstadionban találná a The Shankly Gates-t?;Anfield, Liverpool;Wembley, London;Old Trafford, Manchester;Westfalenstadion, Dortmund

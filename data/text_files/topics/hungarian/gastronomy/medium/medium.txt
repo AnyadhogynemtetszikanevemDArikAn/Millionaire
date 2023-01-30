@@ -13,3 +13,7 @@ Mi a legnépszerűbb burgonya chips íz?;Sima;Grill;Hagymás-tejfölös;Cheddar
 Hány tojás tartalmaz "bónusz" sárgáját?;1000 tojásból egy;500 tojásból egy;2000 tojásból egy;3000 tojásból egy
 Melyik aszalt gyümölcs a legjobb azoknak a futóknak, akik energiafokozásra vágynak?;Mazsola;Datolya;Sárgabarack;A fentiek mindegyike
 Hány gramm rost van egy nagy almában?;5 gramm;4 gramm;6 gramm;7 gramm
+Melyik nem egy tésztaféle?;Escargot;Spaghetti;Fettuccine;Ziti
+Melyik ország NEM a lasagna feltételezett származási helyeinek egyike?;Görögország;Olaszország;Anglia;Spanyolország
+Hány éves a buboréktea?;40 éves;200 éves;100 éves;80 éves
+A paradicsom gyümölcs vagy zöldség?;gyümölcs;zöldség;mindkettő;egyik sem

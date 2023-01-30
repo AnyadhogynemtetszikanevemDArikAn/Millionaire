@@ -15,3 +15,6 @@ Which art technique uses light and shadow to define three-dimensional objects?;C
 Who was the teacher of Leonardo da Vinci?;Andrea del Verrocchio;Raphael;Giorgio Vasari;Sandro Botticelli
 Who is the founder of the Rayonism art movement?;Mikhail Fyodorovich Larionov;Franz Marc;Robert Delaunay;Albert Gleizes
 Which American filmmaker is also known as one of the originators of the assemblage form of sculpture?;Joseph Cornell;Joseph Bard;Robert Motherwell;Elieen Agar
+Which brand are the Soup Cans on the famous Andy Warhol painting?;Campbell's;Nestle;General Mills;Kraft Heinz
+In which city can you find the Manneken Pis?;Brussels, Belgium;Genf, Switzerland;Toulouse, France;Milano, Italy
+When did Constructivism in art begin?;1913;1886;1770;1600

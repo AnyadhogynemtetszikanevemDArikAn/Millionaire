@@ -1,0 +1,10 @@
+Állítsa sorrendbe az alábbi uralkodókat!;IV.Béla;Szent István;Károly Róbert;Mátyás Király;bacd
+Állítsa időrendi sorrendbe a következőket:;Kerék feltalálása;Iránytű feltalálása;Térkép feltalálása;Üveg feltalálása;dabc
+Állítsa a magyarság történetének helyszíneit sorrendben visszafelé haladva:;A Káma vidéke;Levédia és Etelköz;A Kaukázus vidéke;Kárpát-medence;dcba
+Milyen sorrendben vannak Mauritius zászlójának színei?;Zöld;Sárga;Piros;Kék;cdab
+Mik a rántotthús panírozásának lépései?;Tojás;Liszt;Klopfolás;Zsemlemorzsa;cbad
+Állítsa sorba a csirke fejlődési szakaszait visszafelé!;Előnevelt csirke;Csibe;Jérce;Tyúk;dcab
+Tegye időben sorrendbe a következő történemi eseményeket:;Tatárjárás;Mohácsi vész;Pákozdi csata;Szatmári béke;abdc
+Állítsa időben fordított sorrendbe a következő kémiai elemek felfedezését!;Bór;Arany;Plutónium;Hélium;acdb
+Állítsa zsírtartalmuk szerint sorrendbe az alábbi ételeket:;Csirkemell filé;Csirkemáj;Rák;Lazac;cabd
+Állítsa fehérjetartalmuk szerint csökkenő sorrendbe az alábbi ételeket:;Kecsketej;Tejszínhab;Tojás;Camembert;dcab

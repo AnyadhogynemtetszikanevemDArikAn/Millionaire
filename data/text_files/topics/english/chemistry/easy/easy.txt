@@ -9,7 +9,9 @@ What is a solid whose molecules are arranged in an orderly, repeating pattern?;C
 What is the second lightest chemical element?;Helium;Carbon;Hydrogen;Radium
 Which molecule does NOT have oxygen in its structure?;Ammonia;Water;Ethanol;Ozone
 What is the most abundant element of the universe?;Hydrogen;Nitrogen;Sodium;Oxygen
-The metal used to recover copper from a solution of copper sulphate is?;Fe;Hg;Ag;Na
-The most abundant rare gas in the atmosphere is?;Ar;Ne;He;Xe
-The monomer of polythene is?;ethylene;vinyl chloride;ethyl alcohol;None of the above
 The method that cannot be used for removing permanent hardness of water is?;boiling;adding caustic soda;distillation;adding sodium carbonate
+Which is the only metal that is liquid even at room temperature?;Mercury;Cesium;Gallium;Aluminum
+What is the chemical symbol of silver?;Ag;Au;Pt;As
+Where is the most iron in the human body?;In the blood;In the liver;In the stomach;In the kidneys
+What is the change of state in which a solid material becomes a gas without a liquid state?;Sublimation;Diffusion;Oxidation;Galvanization
+Which is the only letter not in the periodic table?;J;U;X;Y

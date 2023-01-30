@@ -8,7 +8,6 @@ What children's show features characters named Big Bird and Elmo?;Sesame Street;
 What is the first name of McDonald's mascot?;Ronald;Susan;George;Karl
 Which mode of transportation traditionally has two wheels?;Bicycle;Tricycle;Car;Bus
 Headquarters of UNO are situated at?;New York, USA;Hague (Netherlands);Geneva;Paris
-For what does the "C" in "SCUBA diving" stand?;Contained;Cartilage;Collateral;Champion
 What was the first artificial satellite that was sent into Earth's orbit?;Sputnik I;EchoStar I;Galaxy I;Astra I
 People that have what condition should avoid milk products?;Lactose Intolerance;Sickle-cell disease;Cystic fibrosis;Color blindness
 What was the first name of the physicist Newton?;Isaac;Herbert;Albert;Luigi

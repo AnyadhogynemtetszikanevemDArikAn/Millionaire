@@ -1,15 +1,15 @@
 Which sport is also known as football?;Soccer;Basketball;Baseball;Cricket
 What is the name of the person that controls a football match?;A referee;An umpire;A spectator;A goalkeeper
 Where did the first modern Summer Olympic games take place in 1896?;Athen;Sydney;Rome;Paris
-What is the nickname for Arsenal FC?;The Gunners;The Sky Blues;The Citizens;The Red Devils
 Which French city is known for its 24 hour motor race?;Le Mans;Marseille;Paris;Nizza
-What is the name of the only racehorse to win the Grand National 3 times?;Red Rum;Arkle;American Pharaoh;Winx
 Which sport takes place in a velodrome?;Cycling;Running;Hurdles;Relay race
-In which 2 countries did the 2019 Cricket World Cup take place?;England & Wales;England & Germany;England & Denmark;England & France
 Follower and rover are positions in which sport?;Australian Rules Football;Sepak takraw;Underwater hockey;Disc golf
-Which nation won the 2019 Rugby World Cup?;South Africa;Chile;Paraguay;Jemen
 What is the term for a score of 1 over par on a golf hole?;Bogey;Birdie;Ace;Eagle
-Andy Murray’s first Grand Slam title was at which tennis tournament?;U.S. Open;Australian Open;Roland Garros (French Open);Wimbledon
-At which football stadium would you find The Shankly Gates?;Anfield, Liverpool;Wembley, London;Old Trafford, Manchester;Westfalenstadion, Dortmund
 Which sport do the New York Giants play?;American Football;Soccer;Volleyball;Basketball
 What is the national sport of Japan?;Sumo wrestling;Karate;Judo;Jiu-jitsu
+How many players are on a baseball team?;9 players;11 players;13 players;5 players
+Which are Canada's two national sports?;Lacrosse and Ice Hockey;Judo and Sumo Wrestling;Golf and Baseball;Crickett and Polo
+In which sport would you have a touchdown?;American football;Baseball;Basketball;Rugby
+Which team did Michael Jordan play most of his career for?;Chicago Bulls;Atlanta Hawks;Charlotte Hornets;Indiana Pacers
+Which of the following is not a water sport?;Paragliding;Cliff jumping;Windsurfing;Rowing
+Which country has the most Olympic gold medals in swimming?;USA;United Kingdom;China;Australia

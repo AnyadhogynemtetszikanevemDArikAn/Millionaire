@@ -16,3 +16,6 @@ The most malleable metal is?;gold;platinum;silver;iron
 Gravity setting chambers are used in industries to remove?;suspended particulate matter;CO;NOx;SOx
 For galvanizing iron which of the following metals is used?;Zinc;Lead;Copper;Aluminium
 For purifying drinking water alum is used?;for coagulation of mud particles;to kill bacteria;to remove salts;to remove gases
+The monomer of polythene is?;ethylene;vinyl chloride;ethyl alcohol;None of the above
+The most abundant rare gas in the atmosphere is?;Ar;Ne;He;Xe
+The metal used to recover copper from a solution of copper sulphate is?;Fe;Hg;Ag;Na

@@ -15,3 +15,7 @@ Melyik művészeti technika használja a fényt és az árnyékot a háromdimenz
 Ki volt Leonardo da Vinci tanára?;Andrea del Verrocchio;Raphael;Giorgio Vasari;Sandro Botticelli
 Ki a Rajonizmus művészeti mozgalom alapítója?;Mihail Fjodorovics Larionov;Franz Marc;Robert Delaunay;Albert Gleizes
 Melyik amerikai filmrendezőt ismerik az új-realizmus szobrászat egyik megalkotójaként?;Joseph Cornell;Joseph Bard;Robert Motherwell;Elieen Agar
+Milyen márkájú leveskonzerv látható a híres Andy Warhol festményen?;Campbell's;Nestle;General Mills;Kraft Heinz
+Melyik városban található a Manneken Pis?;Brüsszel, Belgium;Genf, Svájc;Toulouse, Franciaország;Milano, Olaszország
+Melyik híres női fáraó mellszobrát faragta Thutmose?;Nefertiti;Hatsepszut;Kleopátra;Ashotep
+Mikor kezdődött a konstruktivizmus a művészetben?;1913;1886;1770;1600

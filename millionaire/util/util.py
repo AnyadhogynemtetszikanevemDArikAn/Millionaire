@@ -141,12 +141,15 @@ def get_data_path() -> str:
     return data_path
 
 
-def open_file(filename: str, mode: str, separator=",", filepath="/text_files/") -> list:
+def open_file(filename: str, mode: str, separator=",", filepath="/text_files/", strip=True) -> list:
     file_path = get_data_path() + filepath + filename + ".txt"
     with open(file_path, mode, encoding="UTF-8") as file:
         list_of_file = []
         for line in file:
-            line = line.strip().split(separator)
+            if strip:
+                line = line.strip().split(separator)
+            else:
+                line = line.split(separator)
             list_of_file.append(line)
     return list_of_file
 

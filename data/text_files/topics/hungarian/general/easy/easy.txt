@@ -8,7 +8,6 @@ Big Bird és Elmo melyik gyerek műsorban szerepeltek?;Sesame Street;Barney & Fr
 Mi a keresztneve a McDonald's kabalájának?;Ronald;Susan;George;Karl
 Melyik tömegközlekedési módnak van hagyományosan két kereke?;Bicikli;Tricikli;Autó;Busz
 Az ENSZ központja hol található?;New York, USA;Hága (Hollandia);Genf;Párizs
-Mit jelent a "C" a "SCUBA diving" kifejezésben?;Contained;Partilage;Follateralék;Champion
 Melyik volt az első mesterséges műhold, amelyet a Föld pályájára küldtek?;Sputnik I;EchoStar I;Galaxy I;Astra I
 Milyen állapotban lévőknek kell kerülniük a tejtermékeket?;Laktóz-intolerancia;Sarlósejtes betegség;Cisztás fibrózis;Színvakság
 Mi volt Newton fizikus keresztneve?;Isaac;Herbert;Albert;Luigi

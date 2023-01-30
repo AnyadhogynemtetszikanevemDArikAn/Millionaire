@@ -2,19 +2,14 @@ Melyik gáztól lesz magasabb a hangunk ha belélegezzük?;Hélium;Oxigén;Nitro
 Melyik NEM elsődleges szín?;Zöld;Sárga;Piros;Kék
 Nem szabad több elektromos készüléket ugyanahhoz a konnektorhoz csatlakoztatni, mert?;ez károsíthatja a háztartási vezetékeket a túlterhelés miatt;ez károsíthatja a készülékeket a túlterhelés miatt;ez károsíthatja az elektromos mérőt;a készülék nem kap teljes feszültséget
 Mikor lesz napfogyatkozás?;Ha a Hold a nap és a föld között van;Ha a nap a hold és a föld között van;Ha a föld a hold és a nap között van;Ha a hold nem fekszik a Napot és a Földet összekötő vonalon
-A víz alatti tengeralattjáróból a víz felszínén lévő tárgyak megtekintésére a következő eszközt használják:;Periszkóp;Kaleidoszkóp;Spektroszkóp;Teleszkóp
+A tengeralattjáróból a víz felett lévő tárgyak megtekintésére a következő eszközt használják:;Periszkóp;Kaleidoszkóp;Spektroszkóp;Teleszkóp
 Melyik félvezető elem képes az elektronikus jelek kapcsolására vagy erősítésére?;Tranzisztor;Kondenzátor;Anód;Ellenállás
-Mit módosít a tápegységben lévő transzformátor?;Feszültség;Hullámforma;Kapacitás;Ellenállás
 Melyik technológia a legújabb?;Lézer;Atombomba;Televízió;Kodachrome
 Mit jelent az "L" a LASER-ben?;Light;Large;Large;Low
 Melyik elmélet írja le univerzumunk kezdetét?;Ősrobbanás;Szupernova;Speciális relativitáselmélet;Szabványmodell
 Könnyebb lejtős úton felfelé görgetni egy követ, mint függőlegesen felfelé emelni, mert?;Egy kő gördítésekor végzett munka kevesebb, mint az emelésénél;Mindkettőben azonos, de hengerlésnél kisebb a munkavégzés aránya;A kő felemelésével végzett munka egyenlő a hengerítéssel;A hengerezéssel végzett munka több, mint az emeléssel
 A szifon nem fog működni, ha?;A folyadék szintje a két edényben azonos magasságban van;A folyadék sűrűsége a két edényben egyenlő;Mindkét szárának hossza nem egyenlő;A folyadékok hőmérséklete az edényben két edény ugyanaz
 A fényév minek a mértékegysége?;Távolság;Idő;fény;Fényintenzitás
-A Nap fénye közel mennyi idő alatt ér el minket?;8 perc;16 perc;4 perc;2 perc
-Úgy tűnik, hogy a csillagok keletről nyugatra mozognak, mert?;A Föld keletről nyugat felé forog;A Föld nyugatról keletre forog;Minden csillag keletről nyugatra mozog;A csillagok háttere nyugatról keletre mozog
 Minek a mértékegysége a Pa (Pascal)?;Nyomás;Tolóerő;Frekvencia;Vezetőképesség
 A fémek jó elektromos vezetők, mert?;Szabad elektronokat tartalmaznak;Az atomok enyhén pakolódnak;Magas olvadáspontjuk;A fentiek mindegyike
-Cseréljünk ki egy vékony kapilláris csövet egy nem megfelelő hosszúságú csőre. Mi történik ekkor a vízzel?;Nem tör elő;Túlcsordul;Lecsökken;Megváltozik a folyadkék határfelülete
 A rúdmágnes közepén lévő mágnesesség mértéke mekkora?;Nulla;Maximum;Minimum;Minimális vagy maximum
-Esős napon a vízen lévő kis olajfilmek ragyogó színeket mutatnak. Ennek oka?;Interferencia;Diffrakció;Polarizáció;Diszperzió

@@ -13,3 +13,8 @@ A biztonság kedvéért a háztartási villamosenergia-ellátáshoz használt bi
 A folyadék szabad felülete lapként viselkedik, és hajlamos a lehető legkisebb területre összehúzódni. Mi okozza?;Kohéziós erő;Centrifugális erő;Súrlódási erő;Tapadóerő
 Milyen SI-egységben van kifejezve a Planck-állandó?;Joule másodperc;Henry volt;Sievert watt;Candela per négyzetméter
 Milyenek a levegőben lévő hanghullámok?;Hosszirányú;Transzverzális;Elektromágneses;Polarizált
+A Nap fénye közel mennyi idő alatt ér el minket?;8 perc;16 perc;4 perc;2 perc
+Esős napon a vízen lévő kis olajfilmek ragyogó színeket mutatnak. Ennek oka?;Interferencia;Diffrakció;Polarizáció;Diszperzió
+Cseréljünk ki egy vékony kapilláris csövet egy nem megfelelő hosszúságú csőre. Mi történik ekkor a vízzel?;Nem tör elő;Túlcsordul;Lecsökken;Megváltozik a folyadkék határfelülete
+Mit módosít a tápegységben lévő transzformátor?;Feszültség;Hullámforma;Kapacitás;Ellenállás
+Úgy tűnik, hogy a csillagok keletről nyugatra mozognak, mert?;A Föld keletről nyugat felé forog;A Föld nyugatról keletre forog;Minden csillag keletről nyugatra mozog;A csillagok háttere nyugatról keletre mozog

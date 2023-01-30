@@ -15,3 +15,6 @@ A leginkább formálható fém a következő:;arany;platina;ezüst;vas
 A gravitációs ülepítőkamrákat az iparban minek az eltávolítására használják?;lebegő részecskék;CO;NOx;SOx
 A vas horganyzásához az alábbi fémek közül melyiket használják?;Cink;Ólom;Réz;Alumínium
 Az ivóvíz tisztításánál mire használják a timsót?;Iszaprészecskék koagulálására;Baktériumok elpusztítására;Sók eltávolítására;Gázok eltávolítására
+Melyik a réz réz-szulfát oldatából történő kinyerésére használt fém?;Fe;Hg;Ag;Na
+A légkörben leggyakrabban előforduló ritka gáz?;Ar;Ne;He;Xe
+A polietilén monomerje?;Etilén;Vinil-klorid;Etil-alkohol;Egyik sem

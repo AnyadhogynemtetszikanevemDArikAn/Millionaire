@@ -19,3 +19,5 @@ The first winner of the Miss World contest represented which country?;Sweden;0Au
 Which of these actors has not played Blofeld in the James Bond films?;Patric Macnee;Charles Gray;Telly Savalas;Donald Pleasence
 Which US state is nicknamed 'The Green Mountain State'?;Vermont;Montana;Delaware;Wyoming
 In philately, what does the 'C' in the abbreaviation FDC stand for?;Catalogue;Counterfeit;Cover;Condition
+What sort of reerence book is the OED?;Dictionary;Atlas;Encyclopedia;Almanack
+In which town is the Royal Shakespeare Theatre situated?;Stratford-upon-Avon;Ashton-under-Lyne;Berwick-upon-Tweed;Newcastle-upon-Tyne

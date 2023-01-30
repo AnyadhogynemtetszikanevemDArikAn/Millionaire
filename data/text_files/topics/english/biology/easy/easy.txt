@@ -1,8 +1,6 @@
-Which type of shark is the biggest ever?;Megalodon;Great White;Whale Shark;Tiger Shark
 Which animal has the highest speed on land?;Cheetah;Springbok;Lion;Quater Horse
 Which animal is not a primate?;Dolphin;Chimpanzee;Gorillla;Orangutan
 What is the largest external organ on the human body?;Skin;Eyes;Ears;Nose
-Which of these is NOT a fruit?;Rutabaga;Banana;Apples;Peppers
 The outer white part of your eyes is referred to as the ________.;Sclera;Macula;Vitreous;Retina
 Plants receive their nutrients mainly from?;soil;light;atmosphere;chlorophyll
 Plants absorb most part of water needed by them through their?;root hairs;growing point;embryonic zone;zone of elongation

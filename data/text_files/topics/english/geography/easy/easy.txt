@@ -1,5 +1,4 @@
 What's the deepest point of the Earth?;Mariana Trench;Philippine Trench;Tonga Trench;Kermadec Trench
-Which is the correct highest point of the Mount Everest?;8848;8840;8830;8838
 What city contains the Eiffel Tower?;Paris;Sydney;Los Angeles;New York City
 How many continents are there?;7;1;3;20
 Which state has cities named San Francisco and Hollywood?;California;Utah;Hawaii;Montana
@@ -8,8 +7,9 @@ What is the largest country in the world?;Russia;Canada;China;North America
 The Great Victoria Desert is located in?;Australia;West Africa;Canada;North America
 What is true for Italy?;It borders Switzerland;It is landlocked;Its main language is French;Its capital is Vienna
 What is the capital of Denmark?;Copenhagen;Amsterdam;Stockholm;Berlin
-Where can we find St. Paul's Cathedral?;London;Rome;Sydney;Madrid
 In which country is Mount Fuji located?;Japan;China;Peru;North korea
-In which country is the Cape of Good Hope?;South africa;Australia;Candada;Usa
-The Sierra Madre Oriental is a mountain range in which country?;Mexico;China;Peru;Argentina
 What is the study of human beings and their cultures?;Anthropology;Anthology;Geography;Apiology
+Which state has the largest area in the USA?;Alaska;California;Texas;Hawaii
+What is the capital of Kenya?;Nairobi;Tripoli;Bamako;Kankan
+Where do most people live?; Morocco;South Sudan;Liberia;Madagascar
+Which is the largest country among those listed?;Ethiopia;Kenya;Ghana;Egypt

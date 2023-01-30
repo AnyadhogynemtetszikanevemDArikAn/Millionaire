@@ -12,3 +12,7 @@ Melyik osztrák főhercegnő lett Franciaország királynője 1774-ben?;Marie An
 Ki lett Oroszország első elnöke a Szovjetunió felbomlása után?;Borisz Jelcin;Leonid Brezsnyev;Dmitrij Medvegyev;Vlagyimir Putyin
 Ki kiáltotta: "Eureka!" egy fontos megállapítás után?;Arkhimédész;Szókratész;Seneca;Arisztotelész
 Melyik ország küldte az első embert a világűrbe?;Szovjetunió;USA;Mexikó;Kína
+Az első kínai háború melyik országok között zajlott?;Kína és Nagy-Britannia;Kína és Franciaország;Kína és Egyiptom;Kína és Görögország
+Mikor fedezte fel Kolumbusz a Bahamákat?;1492;1776;1329;1615
+Melyik dinasztia idején épült a pekingi Tiltott Város?;Ming;Liao;Xin;Song
+Mi történt közvetlenül az amerikai forradalom (1775-1783) után az északi államokban?;A rabszolgaság eltörlése;Az alkohol tilalma;Női választójog;Válóok nélküli válás

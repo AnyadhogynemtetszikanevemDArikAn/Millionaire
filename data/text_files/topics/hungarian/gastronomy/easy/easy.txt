@@ -1,8 +1,4 @@
-Melyik nem egy tésztaféle?;Escargot;Spaghetti;Fettuccine;Ziti
 A caffe macchiatonak ________ gyökerei vannak.;Olasz;Spanyol;Amerikai;Francia
-Honnan származik a lasagna?;Görögország;Olaszország;Franciaország;Spanyolország
-Hány éves a buboréktea?;40 éves;200 éves;100 éves;80 éves
-A paradicsom gyümölcs vagy zöldség?;gyümölcs;zöldség;mindkettő;egyik sem
 Mi a legnépszerűbb pizza feltét?;Pepperoni;Kolbász;Gomba;Extra sajt
 Melyik a legnépszerűbb csokoládé?;tej;sötét;fehér;félédes
 Milyen színű paprika támogatja legjobban a szem egészségét?;narancs;sárga;piros;zöld
@@ -13,3 +9,9 @@ Mi a séf szerepe a gasztronómiában?;mester;tanuló;író;gondnok
 Melyik a legnépszerűbb ital a világon?;Tea;Kávé;Sör;Bor
 Mi a legnépszerűbb gyümölcs a világon?;Banán;Alma;Narancs;Görögdinnye
 A barbecue az Egyesült Államok gasztronómiai ikonja?;Igaz;Hamis;Ez egy megosztott ikon az Egyesült Államok és Mexikó között;Közösen használja ezt az ikont az Egyesült Államok és Kanada
+Melyik nem vörösborszőlő?;Chardonnay;Kadarka;Carignan;Cabernet sauvignon
+Melyik a kakukktojás?;Bodnár;Kádár;Pintér;Tímár
+Melyik magyar borszőlőfajta nem őshonos Magyarországon?;Kunleány;Cserszegi fűszeres;Furmint;Kéknyelű
+Milyen savak találhatók meg a szőlőben természetes állapotában?;Almasav, citromsav, borkősav;Szalicilsav, oxálsav, glikolsav;Csersav, tejsav, ecetsav;Vajsav, cukorsav, szorbinsav
+Melyik Spanyolország legnépszerűbb étele?;Paella;Pozole;BBQ;Pizza
+Melyik ország különleges desszertje a tiramisu?;Olaszország;Írország;Skócia;Görögország

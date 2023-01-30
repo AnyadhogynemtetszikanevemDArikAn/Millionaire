@@ -13,3 +13,5 @@ A napfénynek való kitettség javítja egészségi állapotát, mert…?;Az ult
 Mi terjeszti a filáriát?;Szúnyogok;Baktériumok;Protozák;Vírusok
 Az eugenika minek a tudománya?;Az emberi lények megváltoztatása genetikai összetevőik megváltoztatásával;Európai származású emberek;Különböző emberi fajok;Növények genetikája
 Hány szarva volt egy triceratopsnak?;3;2;4;0
+Melyik a valaha élt legnagyobb cápa?;Óriásfogú cápa;Nagy fehér cápa;Cetcápa;Tigriscápa
+Melyik NEM gyümölcs?;Rutabaga;Banán;Alma;Paprika
